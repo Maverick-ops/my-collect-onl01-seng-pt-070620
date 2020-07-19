@@ -1,5 +1,4 @@
-def my_collect(languages) do |language|
- language.upcase
+def my_collect(languages) 
  empty_array = []
     counter = 0
       my_collect(empty_array) do |x|
