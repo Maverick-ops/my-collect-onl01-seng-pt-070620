@@ -9,7 +9,3 @@ def my_collect(languages)
   collection
 end
 
-def my_collect(students) do |student|
-         student.split(" ").first
-       end
-end
