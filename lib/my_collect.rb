@@ -6,3 +6,4 @@ def my_collect(languages)  do |language|
 def my_collect(students) do |student|
          student.split(" ").first
        end
+end
